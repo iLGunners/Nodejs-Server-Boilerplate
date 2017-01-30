@@ -3,20 +3,20 @@
   "version": "0.0.1",
   "description": "Server for Everyday work",
   "main": "index-runner.js",
-  "author": "Shafayet, Nowshad",
+  "author": "Mujtaba Nowshad",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iShafayet/project-arachnid-server.git"
+    "url": "https://github.com/iLGunners/Simple-Nodejs-Server.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iShafayet/project-arachnid-server/issues"
+    "url": "https://github.com/iLGunners/Simple-Nodejs-Server/issues"
   },
-  "homepage": "https://github.com/iShafayet/project-arachnid-server",
+  "homepage": "https://github.com/iLGunners/Simple-Nodejs-Server",
   "private": true,
   "dependencies": {
     "body-parser": "^1.15.2",
