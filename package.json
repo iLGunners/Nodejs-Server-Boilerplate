@@ -1,6 +1,6 @@
 {
   "name": "simple-server",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Server for Everyday work",
   "main": "index-runner.js",
   "author": "Mujtaba Nowshad",
@@ -23,9 +23,7 @@
     "coffee-script": "^1.10.0",
     "express": "^4.14.0"
   },
-  "devDependencies": {
-    "mocha": "^3.0.2"
-  },
+  "devDependencies": {},
   "engines": {
     "node": ">=4.3.2"
   },
